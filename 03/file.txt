@@ -1,0 +1,4 @@
+1. what is autograde ?
+ans:- autograde is a core component of pytorch that provides automatic differentiation
+for tensor operations. it enables gradient computation, which is essential for training
+machine learning models using optimization algorithms like gradient descent.
